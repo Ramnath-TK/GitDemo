@@ -1,5 +1,7 @@
 package mp.ms;
 
+import org.testng.annotations.Test;
+
 public class ThreeTest {
 
 	
