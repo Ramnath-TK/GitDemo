@@ -9,6 +9,7 @@ public class OneTest {
 	{
 		System.out.println("method1");
 		System.out.println("Gitchange1 by GitDemo");
+		System.out.println("Creation and edit of dev branch by GitStuff");
 	}
 	
 	@Test
