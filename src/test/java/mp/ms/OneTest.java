@@ -8,6 +8,7 @@ public class OneTest {
 	public void method1()
 	{
 		System.out.println("method1");
+		System.out.println("Gitchange1 by GitDemo");
 	}
 	
 	@Test
