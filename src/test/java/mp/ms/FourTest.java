@@ -9,5 +9,6 @@ public class FourTest {
 	{
 System.out.println("FourTest class file newly added in master by GitDemo");
 System.out.println("changed password");
+System.out.println("In progress to stash");
 	}
 }
