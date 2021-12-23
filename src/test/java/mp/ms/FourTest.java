@@ -8,5 +8,6 @@ public class FourTest {
 	public void method4()
 	{
 System.out.println("FourTest class file newly added in master by GitDemo");
+System.out.println("changed password");
 	}
 }
